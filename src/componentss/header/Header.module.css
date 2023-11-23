@@ -1,0 +1,33 @@
+.header {
+    width: 100%;
+    height: 60px;
+    background-color:#00A43817;
+    display: flex;
+}
+
+.image {
+    width: 90%;
+}
+
+.logo {
+    width: 15%;
+    background-color: #F00E0E1A;
+    display: flex;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(16, 130, 211);
+    padding: 15px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.menu {
+    width: 50%;
+    text-align: right;
+    margin: auto;
+}
+
+
+
